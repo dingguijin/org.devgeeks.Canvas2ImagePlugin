@@ -1,3 +1,4 @@
+
 Canvas2ImagePlugin
 ============
 
